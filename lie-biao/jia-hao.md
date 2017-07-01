@@ -1,11 +1,11 @@
 ##加号
 ```
-+ Candy.
-+ Gum.
-+ Booze.
+1. Red
+2. Green
+3. Blue
 ```
 ##示例
 ---
-+ Candy.
-+ Gum.
-+ Booze.
+1. Red
+2. Green
+3. Blue

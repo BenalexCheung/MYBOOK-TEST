@@ -1,11 +1,24 @@
 ##减号
 ```
-- Candy.
-- Gum.
-- Booze.
+* A list item.
+
+    With multiple paragraphs.
+    
+    With multiple paragraphs.
+
+    With multiple paragraphs.
+
+* Another item in the list.
 ```
 ##示例
 ---
-+ Candy.
-+ Gum.
-+ Booze.
+* A list item.
+
+    With multiple paragraphs.
+    
+    With multiple paragraphs.
+
+    With multiple paragraphs.
+
+    
+* Another item in the list.

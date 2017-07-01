@@ -5,6 +5,7 @@
 * [修辞与强调](xiu-ci-yu-qiang-diao.md)
 * [列表](lie-biao.md)
   * [无序列表](lie-biao/xing-hao.md)
-  * [加号](lie-biao/jia-hao.md)
-  * [减号](lie-biao/jian-hao.md)
+  * [有序列表](lie-biao/jia-hao.md)
+  * [包含段落](lie-biao/jian-hao.md)
+* [链接](lian-jie.md)
 
