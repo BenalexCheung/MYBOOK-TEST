@@ -4,3 +4,7 @@
 
 This is a test.
 
+&gt;Synchronize to GitHub
+
+&gt;Synchronize to Gitbook
+
