@@ -8,4 +8,5 @@
   * [有序列表](lie-biao/jia-hao.md)
   * [包含段落](lie-biao/jian-hao.md)
 * [链接](lian-jie.md)
+* [图片](tu-pian.md)
 
