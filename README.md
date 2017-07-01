@@ -4,9 +4,13 @@
 
 This is a test.
 
-&gt;Synchronize to GitHub
+```
+>Synchronize to GitHub
 
-&gt;Synchronize to Gitbook
+>Synchronize to Gitbook
+```
+
+
 
 ---
 
@@ -39,6 +43,4 @@ dog's back.
 &gt;
 
 &gt; \#\# This is an H2 in a blockquote
-
-
 
